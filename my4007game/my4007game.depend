@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1596747062 source:c:\code\my4007game\main.cpp
+	<cstdio>
+	<windows.h>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	<array>
+	<PlayerInfo.h>
+	"headList.h"
+
+1596715763 source:c:\code\my4007game\src\variables.cpp
+	"Variables.h"
+	<string.h>
+	<time.h>
+
+1596716994 c:\code\my4007game\include\variables.h
+	<iostream>
+	<string>
+
+1596722794 source:c:\code\my4007game\src\funclist.cpp
+	"FuncList.h"
+	"Variables.h"
+	<windows.h>
+
+1596726424 c:\code\my4007game\include\funclist.h
+
+1596747191 source:c:\code\my4007game\src\monster.cpp
+	"Monster.h"
+	<conio.h>
+	<cstdio>
+	<iostream>
+
+1596747191 c:\code\my4007game\include\monster.h
+	<iostream>
+
+1596747191 c:\code\my4007game\include\playerinfo.h
+	<iostream>
+
+1596747191 source:c:\code\my4007game\src\playerinfo.cpp
+	"PlayerInfo.h"
+	<conio.h>
+	<cstdio>
+	<windows.h>
+
+1596724261 c:\code\my4007game\include\headlist.h
+	"FuncList.h"
+	"Monster.h"
+	"PlayerInfo.h"
+	"OutputPage.h"
+
+1596742625 c:\code\my4007game\include\outputpage.h
+
+1596748672 source:c:\code\my4007game\src\outputpage.cpp
+	"OutputPage.h"
+	"headList.h"
+	<conio.h>
+	<cstdio>
+	<windows.h>
+
